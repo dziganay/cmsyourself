@@ -1,0 +1,5 @@
+Theme name:    Testbed
+Description:   Testing Custom Theme
+Author name:   daveyourself
+Author site:   http://daveyourself.com
+License:       WTFPL (http://sam.zoy.org/wtfpl/COPYING)

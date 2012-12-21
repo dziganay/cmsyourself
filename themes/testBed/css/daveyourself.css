@@ -1,0 +1,346 @@
+body
+{
+	font-family: "Helvetica Neue", Helvetica;
+	background-color: #FFF;
+}
+
+.wrap
+{
+	width: 970px;
+	margin: 0 Auto;
+}
+
+header#top 
+{
+	height: 90px;
+	margin-bottom: 20px;
+}
+
+#bar
+{
+	width: 970px;
+	height: 5px;
+	background-color: #000000;
+}
+
+a#titleBlock
+{
+	width: 340px;
+	height: 85px;
+	background: url(../img/headerImg.gif) no-repeat;
+	float: left;
+}
+
+#links
+{
+	width: 145px;
+	height: 25px;
+	float: right;
+	margin-top: 15px;
+}
+
+#indexBody
+{
+	position: relative;
+	clear: both;
+}
+
+.indexRow
+{
+	margin-bottom: 40px;
+	position: relative;
+	height: 275px;
+}
+
+.indexBlock
+{
+	width: 310px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+
+.indexImg
+{
+	width: 310px;
+	height: 200px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.indexBlockCopy
+{
+	float: left;
+}
+
+.indexHead
+{
+	font-size: 14px;
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+.indexCopy
+{
+	font-size: 11px;
+	line-height: 16px;
+	color: #666;
+}
+
+#about a
+{
+	display: block;
+	width: 65px;
+	height: 25px;
+	background: url(../img/contactSprite.gif) no-repeat;
+	text-indent: -5000px;
+	float: left;
+}
+
+#contact a
+{
+	display: block;
+	width: 75px;
+	height: 25px;
+	background: url(../img/contactSprite.gif) no-repeat -70px 0px;
+	text-indent: -5000px;
+	float: left;
+	margin-left: 5px;
+}
+
+#about a:hover
+{
+	background: url(../img/contactSprite.gif) no-repeat 0px -25px;
+}
+
+#contact a:hover
+{
+	background: url(../img/contactSprite.gif) no-repeat -70px -25px;
+}
+
+
+#projectBody
+{
+	width: 970px;
+	margin-right: 10px;
+	margin-left: 10px;
+	position: relative;
+}
+
+#closeCTA
+{
+	margin-bottom: 10px;
+	width: 20px;
+	margin-left: 950px;
+}
+
+#closeCTA a
+{
+	display: block;
+	width: 20px;
+	height: 20px;
+	background: url(images/closeSprite.gif) 0px 0px;
+	text-indent: -5000px;
+}
+
+#closeCTA a:hover
+{
+	background: url(images/closeSprite.gif) 0px -20px;
+}
+
+#projectDetails
+{
+	width: 205px;
+	margin-right: 15px;
+	float: left;
+}
+
+#projectText
+{
+	margin-bottom: 20px;
+}
+
+#thumbsGrid
+{
+	width: 205px;
+	height: 65px;
+}
+
+.thumb a 
+{
+	display: block;
+	width: 30px;
+	height: 30px;
+	text-indent: -5000px;
+	float: left;
+}
+
+#tn01 a
+{
+	background: url(images/thumbSprite.gif) 0 0;
+}
+
+#tn02 a
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -35px 0;
+}
+
+#tn03 a
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -70px 0;
+}
+
+#tn04 a
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -105px 0;
+}
+
+#tn05 a
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -140px 0;
+}
+
+#tn06 a
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -175px 0;
+}
+
+#tn07 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 205px 0;
+}
+
+#tn08 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 170px 0;
+	margin-left: 5px;
+}
+
+#tn09 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -280px 0;
+	margin-left: 5px;
+}
+
+#tn10 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 100px 0;
+	margin-left: 5px;
+}
+
+#tn11 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -350px 0;
+	margin-left: 5px;
+}
+
+#tn12 a
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -385px 0;
+	margin-left: 5px;
+}
+
+#tn01 a:hover
+{
+	background: url(images/thumbSprite.gif) 0 -35px;
+}
+
+#tn02 a:hover
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -35px -35px;
+}
+
+#tn03 a:hover
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -70px -35px;
+}
+
+#tn04 a:hover
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -105px -35px;
+}
+
+#tn05 a:hover
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -140px -35px;
+}
+
+#tn06 a:hover
+{
+	margin-left: 5px;
+	background: url(images/thumbSprite.gif) -175px -35px;
+}
+
+#tn07 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 205px -35px;
+}
+
+#tn08 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 170px -35px;
+	margin-left: 5px;
+}
+
+#tn09 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -280px -35px;
+	margin-left: 5px;
+}
+
+#tn10 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) 100px -35px;
+	margin-left: 5px;
+}
+
+#tn11 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -350px -35px;
+	margin-left: 5px;
+}
+
+#tn12 a:hover
+{
+	margin-top: 5px;
+	background: url(images/thumbSprite.gif) -385px -35px;
+	margin-left: 5px;
+}
+
+#projectSlide
+{
+	width: 750px;
+	margin-bottom: 100px;
+	margin-left: 220px;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
